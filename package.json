@@ -11,5 +11,10 @@
     "javascript"
   ],
   "author": "Juan Rojas criptamas@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "1.8.0"
+  },
+  "type": "module"
 }
